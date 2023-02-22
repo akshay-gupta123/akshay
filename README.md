@@ -1,11 +1,10 @@
 ### Hi there 👋 you're visiting Akshay
 
-I'm a Sophomore majoring in Computer Science.
+I'm a senior CSE student at IIT Kanpur. 
+I'm interested in domains of System Programming and Deep learning, particularly but not limited to Computer Vision, Adversarial AI and Explainable AI. I also have exposure to Cryptography and Blockchains. 
+<br>
+Besides that I ocassionally compete in CP contests, listening music and learning random stuff(mostly time). I'm up for any kind of collaborations :rocket:
 
-I am interested in Deep Learning , from training a model in Tensorflow to deploying it after Inference Optimization. Currently learning Pytorch !!<br>
-I also like Cryptography, exploring one of its application Blockchain. Trying to colab two domains.<br>
-Besides that I ocassionally compete in CP contests, though I used them to build the problem solving skills. I'm up for any kind of collaborations :rocket:
+📫 How to reach me: Shoot me a [mail](mailto:akshay@iitk.ac.in) or connect at [linkedin](https://www.linkedin.com/in/akshay-gupta123/).
 
-📫 How to reach me: Shoot me a [mail](mailto:akshay@iitk.ac.in).
-
-⚡ Fun fact: I love playing Sudoku thou being a boring one .
+⚡ Fun fact: I love solving Sudoku and playing Chess.
